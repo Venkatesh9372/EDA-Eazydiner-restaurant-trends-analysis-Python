@@ -1,0 +1,676 @@
+NAME,RATING,ADDRESS,CITY,DISHES,APPROX_PRICE,DISCOUNTS
+Bella Aroma,4.6,Crowne Plaza,Ahmedabad,Cafe.,700,55
+South Leaf - The Food Chain,4.4,Prahlad Nagar,Ahmedabad,South Indian.,900,40
+Essence,4.5,Crowne Plaza,Ahmedabad,"Indian, North Indian.",2000,45
+The Chocolate Room,5.0,Prahlad Nagar,Ahmedabad,Bakery.,500,60
+Sphere Lounge,4.2,Hotel Ramada,Ahmedabad,"Indian, Continental.",900,35
+Sky Grill,3.2,Crowne Plaza,Ahmedabad,"European, Indian.",1800,50
+The Shaka Cafe,4.1,Prahlad Nagar,Ahmedabad,Multicuisine.,1000,35
+La Milano Pizzeria,2.5,Prahlad Nagar,Ahmedabad,Pizza.,500,50
+Sundew,4.4,Hotel Ramada,Ahmedabad,Multicuisine.,1400,35
+Gwalia Vanakkam,3.0,Prahlad Nagar,Ahmedabad,South Indian.,800,45
+Devi Coffee Day,4.5,Satellite,Ahmedabad,"Cafe, Fast Food.",600,40
+Barbeque Nation,4.5,Prahlad Nagar,Ahmedabad,Multicuisine.,2100,25
+Amritsar Haveli,3.6,Prahlad Nagar,Ahmedabad,Multicuisine.,1100,55
+Kitcha: Together We Eat,5.0,Prahlad Nagar,Ahmedabad,Multicuisine.,800,40
+Salad Time,4.0,Prahlad Nagar,Ahmedabad,"Healthy Food, Salad.",500,45
+1944 The Hocco Kitchen,5.0,Prahlad Nagar,Ahmedabad,North Indian.,1000,35
+Grill Kitchen,4.7,Prahlad Nagar,Ahmedabad,Multicuisine.,1000,40
+Express Cafe,4.2,Holiday Inn Express Ahmedabad Prahlad Nagar ,Ahmedabad,Multicuisine.,600,50
+SambharSa,5.0,Prahlad Nagar,Ahmedabad,Multicuisine.,400,25
+Fruitose,5.0,Bopal,Ahmedabad,Beverages.,450,35
+Starboy Pizza,4.0,Prahlad Nagar,Ahmedabad,"Desserts, Italian.",300,25
+Numeron,4.4,Bodakdev,Ahmedabad,"North Indian, Chinese, Italian.",1100,65
+Three Quarter Indian,4.4,Satellite,Ahmedabad,Multicuisine.,1200,45
+Table Tales,4.7,Bodakdev,Ahmedabad,Multicuisine.,1500,35
+The Chocolate Room Judges Bunglow,4.8,Bodakdev,Ahmedabad,Bakery.,500,75
+Veranda Rooftop Restro Cafe,5.0,Jodhpur Village,Ahmedabad,Multicuisine.,800,50
+Mirch Masala,5.0,Satellite,Ahmedabad,"Mughlai, North Indian.",1000,45
+Banjara- Gourmet Dining,4.3,Bodakdev,Ahmedabad,Multicuisine.,1700,40
+MAD By Tomato's,5.0,Bodakdev,Ahmedabad,Multicuisine.,1500,35
+The Square - Novotel,4.2,Novotel,Ahmedabad,Multicuisine.,1500,60
+Curries,5.0,Bodakdev,Ahmedabad,Multicuisine.,1200,35
+Pizzaiiolo - The Wood Fired Pizza	,4.3,Prahlad Nagar,Ahmedabad,Pizza.,600,40
+Daksheen Narmada - The Secret Spice,4.9,Prahlad Nagar,Ahmedabad,South Indian.,1000,40
+Tuk Tuk Thai - Pure Veg Asian Fine Dine,5.0,Bodakdev,Ahmedabad,Asian.,1200,35
+Gormoh,4.6,Bodakdev,Ahmedabad,Multicuisine.,1100,35
+Desi Rasoi,5.0,Satellite,Ahmedabad,Gujarati.,800,45
+Huber & Holly,4.4,Bodakdev,Ahmedabad,Ice Cream.,500,40
+Ishtaa - Truly South Indian,4.5,Bodakdev,Ahmedabad,South Indian.,1000,25
+Rustic Spices Cafe And Restaurant,4.2,Bopal,Ahmedabad,Multicuisine.,1000,45
+Moti Mahal Tandoori Trail,4.7,Thaltej,Ahmedabad,Multicuisine.,1200,35
+Burnt Turnt,5.0,Bopal,Ahmedabad,North Indian.,1800,50
+Collage,5.0,Hyatt,Ahmedabad,Multicuisine.,1700,75
+Laurel - An Essence Of Flavors,5.0,Ambli,Ahmedabad,Multicuisine.,1800,45
+Bayleaf,4.5,Le Meriden,Ahmedabad,Indian.,2000,40
+Roastery Cultur - The Coffee Company,4.5,Bodakdev,Ahmedabad,"Beverages, Coffee and Tea.",700,35
+Topspin,4.2,Devarc Mall,Ahmedabad,Multicuisine.,1200,40
+The Penthouse Chapter 1- By Novel Chef,3.9,Prahlad Nagar,Ahmedabad,Multicuisine.,1100,35
+The Trophy,5.0,Makarba,Ahmedabad,Multicuisine.,1500,40
+The Market,4.0,Le Meriden,Ahmedabad,Multicuisine.,1500,40
+@Mango,4.7,Bodakdev,Ahmedabad,Multicuisine.,3500,25
+Xia Rooftop Bistro ,4.8,Bodakdev,Ahmedabad,Multicuisine.,1000,25
+Govinda's,3.7,Satellite,Ahmedabad,Multicuisine.,1000,45
+The House of Makeba,4.4,Bodakdev,Ahmedabad,Continental.,1200,35
+The Starry Foliage,4.3,Bopal,Ahmedabad,Multicuisine.,1100,35
+Union,5.0,Ambli,Ahmedabad,Multicuisine.,1800,35
+Cafe Treat,4.2,The Pride Hotel,Ahmedabad,Multicuisine.,1800,55
+Neem Chowk- Under The Neem Tree ,5.0,Bodakdev,Ahmedabad,"Gujarati, Rajasthani.",2500,25
+Neem Dream- Under the neem Tree,5.0,Bodakdev,Ahmedabad,Multicuisine.,4000,25
+Neem County- Under The Neem Tree,4.5,Bodakdev,Ahmedabad,"Continental, oriental, North Indian.",3000,25
+Lithosphere By Upper Crust,4.2,Bodakdev,Ahmedabad,Multicuisine.,1800,25
+Sizzling Barbeque,4.4,The Pride Hotel,Ahmedabad,Barbeque.,700,55
+The Global Platter,4.0,Prahlad Nagar,Ahmedabad,Multicuisine.,1000,45
+Espresso Martini,4.0,Prahlad Nagar,Ahmedabad,"Italian, Cafe.",600,45
+Infine-By Novotel,4.0,Sarkhej,Ahmedabad,European.,3000,25
+Sarây By Tanoor,4.8,Bodakdev,Ahmedabad,Middle Eastern.,1500,25
+Fozzie's Pizzaiolo,4.1,Bodakdev,Ahmedabad,"Italian, Continental.",900,35
+Arbre,4.0,Ambli,Ahmedabad,Multicuisine.,1200,35
+Toska ,4.0,Bodakdev,Ahmedabad,Fast Food.,700,55
+Mehfil-E-Zaika Restaurant,5.0,Juhapura,Ahmedabad,Multicuisine.,800,35
+Tim Tim,4.8,Bodakdev,Ahmedabad,Asian.,2000,25
+I love Sandwich House,4.0,Bodakdev,Ahmedabad,"Cafe, Fast Food.",900,35
+Amala,4.2,Bodakdev,Ahmedabad,Multicuisine.,1100,35
+Hobnob Bistro,4.4,Bodakdev,Ahmedabad,"Multicuisine, Fast Food.",800,50
+FC Food Centre,1.0,Makarba,Ahmedabad,Multicuisine.,550,25
+Kake Di Hatti,3.6,Satellite,Ahmedabad,North Indian.,1000,25
+Chenab By Bhullar's ,5.0,Bodakdev,Ahmedabad,North Indian.,2500,35
+Oven The Bakery,4.0,Satellite,Ahmedabad,"Bakery, Cafe.",600,35
+Level 1,4.0,Thaltej,Ahmedabad,"Beverages, Multicuisine.",1000,55
+Wat A Burger!,4.0,Bodakdev,Ahmedabad,Fast Food.,600,50
+Finch Brew Cafe,4.0,Thaltej,Ahmedabad,Multicuisine.,1500,50
+Baba Budan Cafe,5.0,Bodakdev,Ahmedabad,Cafe.,600,45
+Wave,4.3,DoubleTree by Hilton Ahmedabad,Ahmedabad,Multicuisine.,2000,35
+Abi's Cafe ,5.0,Bopal,Ahmedabad,Cafe.,600,40
+Smash Cafe,4.0,Bopal,Ahmedabad,Fast Food.,500,40
+Java+ ,4.0,Le Meriden,Ahmedabad,"Coffee, Fast Food.",1000,40
+Herbs on Fire,4.0,Iskcon Cross Road,Ahmedabad,Multicuisine.,1200,40
+Drift,4.0,Le Meriden,Ahmedabad,"European, Modern Indian.",1500,40
+Air Bistro,5.0,Bodakdev,Ahmedabad,Cafe.,800,35
+Cafe Deli -Tel,4.0,Novotel,Ahmedabad,Cafe.,1500,40
+Chai Hai Na,3.8,Bopal,Ahmedabad,Fast Food.,400,40
+Boss Burger Brews & B.B.Q.S,4.0,Bodakdev,Ahmedabad,American.,800,35
+11 Inch Pie,4.0,Prahlad Nagar,Ahmedabad,Italian.,500,35
+Jalaram Khichdi Restaurant,3.5,Bopal,Ahmedabad,Gujarati.,500,35
+Ishaara,4.6,Palladium Mall ,Ahmedabad,"Beverages, Modern Indian.",1000,50
+The Grill Street,4.6,Satellite,Ahmedabad,Barbeque.,800,25
+Jalpaan Restaurant,4.3,Thaltej,Ahmedabad,"Beverages, Multicuisine.",900,50
+Taco Bell,5.0,Sarkhej,Ahmedabad,"Tex-Mex, Mexican.",400,25
+Ashray The Restaurant	,2.5,Bodakdev,Ahmedabad,Multicuisine.,700,35
+The Eatery,4.6,Four Points by Sheraton,Ahmedabad,Multicuisine.,1800,65
+Airi Cafe,4.7,Bodakdev,Ahmedabad,Bakery.,600,25
+Punjab Grill,4.1,Palladium Mall ,Ahmedabad,North Indian.,800,45
+Coffee Culture,4.0,Bodakdev,Ahmedabad,Multicuisine.,800,25
+Sambar Cafe,4.0,Bodakdev,Ahmedabad,South Indian.,600,25
+Khana Khazana,4.0,Hotel Inder Residency,Ahmedabad,North Indian.,1200,55
+Crazy Plant Lady- A Plant Boutique Cafe,4.0,Bodakdev,Ahmedabad,Continental.,1000,25
+Kuro,4.3,Renaissance Ahmedabad Hotel,Ahmedabad,Pan Asian.,1200,50
+Virasat-E-curry,4.8,Bodakdev,Ahmedabad,North Indian.,1100,40
+Esencia Restaurant & Banquet,4.0,Bopal,Ahmedabad,North Indian.,1200,55
+TG’s The Oriental Grill ,4.3,Hyatt,Ahmedabad,Multicuisine.,2500,50
+Nomad Experience,4.0,C G Road,Ahmedabad,Pizza.,2000,65
+Bluez Garden Cafe & Restaurant,4.0,Bopal,Ahmedabad,Multicuisine.,1000,65
+Bellasen Bistro,4.6,Bodakdev,Ahmedabad,Multicuisine.,2000,50
+Angithi A Pure Veg Restaurant By Mirch Masala ,5.0,Bodakdev,Ahmedabad,North Indian.,1400,40
+Artisan,4.3,Navrangpura,Ahmedabad,Multicuisine.,1200,55
+Tres Amigos,4.2,Thaltej,Ahmedabad,Mexican.,1000,35
+Z27 Coffee Bar,4.0,Thaltej,Ahmedabad,Multicuisine.,1200,40
+Cafe 1st Story- Fairfield By Marriott,4.3,Fairfield by Marriott Ahmedabad,Ahmedabad,Multicuisine.,1200,55
+Cafe Padmanabham,5.0,Vastrapur,Ahmedabad,Fast Food.,400,40
+Umami by Curries,4.0,Ambavadi,Ahmedabad,Multicuisine.,1200,40
+Sankalp Signature,4.3,Thaltej,Ahmedabad,South Indian.,1200,35
+Kovallam Restaurant: The South Indian Kitchen,4.5,Satellite,Ahmedabad,South Indian.,700,35
+Dheemi Aanch,4.7,Bodakdev,Ahmedabad,Multicuisine.,850,35
+Dosawala ,5.0,Sola,Ahmedabad,South Indian.,500,45
+DosBros Fresh Mexican Grill,4.0,Thaltej,Ahmedabad,Mexican.,1000,55
+CHA,4.4,Palladium Mall,Ahmedabad,Pan Asian.,1450,45
+Varietea- Science City,4.0,Sola,Ahmedabad,"Cafe, Italian.",1000,45
+Peshawri,3.2,ITC Narmada,Ahmedabad,Indian.,2500,35
+Timpani,4.2,Radisson Blu,Ahmedabad,Multicuisine.,1600,55
+Dakshin Bhojnam,4.2,Nikol,Ahmedabad,South Indian.,600,35
+Agashiye ,4.6,The House of MG,Ahmedabad,Gujarati.,2000,35
+Sale & Pepe - Ristorante Italiano,4.0,Shela,Ahmedabad,Italian.,1500,40
+Riviera Restaurant,4.5,Ashram Road,Ahmedabad,Multicuisine.,600,50
+Pol 21,4.2,Thaltej,Ahmedabad,"Chinese, Indian.",1200,75
+Sankalp,4.3,Sola,Ahmedabad,South Indian.,600,40
+Beeji Punjabi Restaurant & Banquets,5.0,Naroda,Ahmedabad,"North Indian, Asian.",1000,50
+Cray Craft,4.4,Andheri East,Mumbai,"Chinese, Indian.",2000,25
+Kitty Su,2.3,The Lalit,Mumbai,"Drinks Only, Finger Food, Cocktail Menu.",2000,25
+Novaara,4.1,Malad West,Mumbai,Multicuisine.,1800,25
+Luuma House,4.7,Juhu,Mumbai,"Japanese, Chinese.",2000,25
+The Tanjore Tiffin Room,4.5,Khar,Mumbai,Tamil Nadu.,1500,25
+The Caravan Menu,4.5,Panch Pakhadi,Mumbai,Multicuisine.,2600,25
+Baliboo,4.2,Goregaon East,Mumbai,Multicuisine.,1800,25
+Eve,4.7,Worli,Mumbai,Multicuisine.,2500,25
+Gigi,4.1,Bandra West,Mumbai,"Japanese, European.",3100,25
+La Panthera,4.6,Bandra Kurla Complex (BKC),Mumbai,European.,4000,25
+Si Nonna's - The Original Sourdough Pizza,4.6,Bandra Kurla Complex (BKC),Mumbai,Italian.,1700,25
+Mahesh Lunch Home,4.5,Juhu,Mumbai,Indian Coastal Cuisine.,1200,25
+Butterfly High,4.7,Vikhroli,Mumbai,Multicuisine.,3000,25
+Alfredo's,4.4,Hotel King's International,Mumbai,Continental.,1500,25
+Amelia,4.6,Bandra Kurla Complex (BKC),Mumbai,Modern European.,3000,25
+On Toes Restaurant,4.4,Juhu,Mumbai,Multicuisine.,1200,25
+Golden Delicacy Restaurant & Banquets,3.5,Malad West,Mumbai,Multicuisine.,1000,25
+Blabber All Day,4.8,Borivali East,Mumbai,"Continental, Asian.",1500,25
+Ode,4.7,Worli,Mumbai,European.,3000,25
+The Coconut Boy,3.4,Bandra West,Mumbai,Goan.,1200,25
+Papa Pancho da Dhaba,4.5,Bandra West,Mumbai,North Indian.,800,25
+On Toes Pub,4.8,Juhu,Mumbai,Multicuisine.,1200,25
+Ditas,4.5,Lower Parel,Mumbai,European.,2500,25
+Khyber,4.4,Fort,Mumbai,"Mughlai, North Indian.",2500,25
+Ekaa,4.5,Fort,Mumbai,Modern Indian.,4000,25
+Green Leaf Restaurant & Lounge - Thane,3.6,Ghodbunder Road,Mumbai,Multicuisine.,1500,25
+Mirage,4.2,Krishna Curve,Mumbai,"Japanese, Asian.",3500,25
+The Nest,4.2,Bandra West,Mumbai,Multicuisine.,1800,25
+Taj Mahal Tea House,4.6,Bandra West,Mumbai,Multicuisine.,1800,25
+Los Cavos,4.5,Bandra West,Mumbai,Peruvian.,2000,25
+PCO,4.4,Lower Parel,Mumbai,Multicuisine.,3000,35
+The Fuchsia Loft,5.0,Hotel King's International,Mumbai,North Indian.,1800,25
+Cacao- A Restrobar,4.0,Aralia International Airport,Mumbai,"Mexican, Indian, Italian.",1200,55
+Heritage Kitchen & Bar,3.6,Andheri East,Mumbai,Multicuisine.,1000,45
+Fusion Ville,4.2,Marol,Mumbai,Multicuisine.,1200,50
+Zytun- The Restaurant,4.3,Hotel Metropolis,Mumbai,Multicuisine.,1200,50
+Uttam Da Dhaba,4.3,Marol,Mumbai,South Indian.,1200,35
+The Brasserie BY HILTON MUMBAI ,4.2,Hilton Mumbai International Airport,Mumbai,Multicuisine.,2200,75
+Fly Kitchen and Bar,1.0,Andheri East,Mumbai,Multicuisine.,1700,45
+Dhaba,5.0,Marol,Mumbai,Multicuisine.,800,35
+190 AMSL By Novotel,4.8,Novotel Mumbai International Airport,Mumbai,"Asian, Continental.",995,75
+Gallery Cafe,4.3,Radisson Mumbai Andheri MIDC,Mumbai,Multicuisine.,2500,80
+Castor,4.2,Andheri East,Mumbai,Multicuisine.,1200,65
+Gourmet Bar By Novotel,4.8,Novotel Mumbai International Airport,Mumbai,Modern Indian.,2500,55
+Food Exchange By Novotel,4.3,Novotel Mumbai International Airport,Mumbai,Multicuisine.,2000,55
+Mado Mado,4.3,Fairfield by Marriott Mumbai International Airport,Mumbai,Multicuisine.,3000,75
+Fiona,4.2,Radisson Blu Mumbai International Airport,Mumbai,"Cocktail Menu, Multicuisine.",3000,75
+MoMo Cafe,4.3,Courtyard Mumbai International Airport,Mumbai,Multicuisine.,3000,55
+24/7 Restaurant,4.4,The Lalit,Mumbai,Multicuisine.,3500,50
+IC BY HILTON MUMBAI ,4.5,Hilton Mumbai International Airport,Mumbai,Pan Asian.,1800,55
+Ummrao,4.4,Courtyard Mumbai International Airport,Mumbai,Indian.,1500,55
+Navya,4.5,The Regale by Tunga,Mumbai,Multicuisine.,850,50
+Saptami,4.4,Holiday Inn Mumbai International Airport,Mumbai,Multicuisine.,2000,75
+Bisou,3.5,Fairfield by Marriott Mumbai International Airport,Mumbai,"Finger Food, Cocktail Menu.",2000,55
+The Finch,4.3,Andheri East,Mumbai,Multicuisine.,1600,50
+Thai Naam,4.7,The Orb,Mumbai,"Thai, Pan Asian.",3000,50
+SPICE OASIS,4.1,IRA BY ORCHID HOTELS,Mumbai,Multicuisine.,1200,50
+Baluchi,4.4,The Lalit,Mumbai,North Indian.,3500,50
+Lake View Cafe,4.4,The Westin Mumbai Powai Lake,Mumbai,Multicuisine.,3000,45
+ARC Powai,4.6,Powai,Mumbai,Multicuisine.,1500,50
+The Great Wall,4.8,The Leela,Mumbai,Chinese.,3200,50
+British Brewing Company,4.1,Marol,Mumbai,"Multicuisine, Cocktail Menu.",1500,55
+Jw Lounge,5.0,JW Marriott Mumbai Sahar,Mumbai,Cocktail Menu.,3500,50
+Rodeo Drive,4.0,Hotel Peninsula Redpine,Mumbai,"Italian, Mexican.",1800,50
+Lounge Bar BY HILTON MUMBAI ,4.1,Hilton Mumbai International Airport,Mumbai,"Cocktail Menu, Finger Food.",2000,55
+Mayouchi,4.5,The Westin Mumbai Powai Lake,Mumbai,"oriental, Japanese.",2000,50
+Nawab Saheb,4.4,The Westin Mumbai Powai Lake,Mumbai,Awadhi.,5000,50
+Rhythm,4.4,The Beatle,Mumbai,Multicuisine.,1000,50
+Episode One,4.3,Powai,Mumbai,Finger Food.,1400,50
+Ice Cream Works Gold,4.0,Powai,Mumbai,"Desserts, Ice Cream.",400,50
+SMOOR,4.6,Powai,Mumbai,European.,600,35
+72 Bar,4.3,Holiday Inn Mumbai International Airport,Mumbai,"Finger Food, Cocktail Menu.",2000,75
+Turkey Central,4.0,Sakinaka,Mumbai,Mughlai.,700,40
+Roots Of India,4.5,Marol,Mumbai,Multicuisine.,1200,40
+JW Cafe,4.5,JW Marriott Mumbai Sahar,Mumbai,Multicuisine.,4000,50
+Teatro Restaurant & Bar,4.0,Andheri East,Mumbai,Multicuisine.,1000,35
+Angrezi Dhaba,3.8,Andheri East,Mumbai,"Indian, Cocktail Menu.",1100,35
+Banjara,4.1,Goldfinch Hotel,Mumbai,Multicuisine.,2500,80
+Asia Kitchen By Mainland China,4.4,Sakinaka,Mumbai,Pan Asian.,1200,45
+Citrus,4.4,The Leela,Mumbai,European.,3000,50
+Gurukripa,4.5,Powai,Mumbai,Indian.,1400,35
+Malhar Tribes,4.5,Marol,Mumbai,Multicuisine.,1600,35
+Beluga,5.0,The Lalit,Mumbai,"Finger Food, Cocktail Menu.",2500,50
+Apna Dhaba,3.4,Chakala,Mumbai,North Indian.,800,35
+Amma's Restaurant & Bar,3.1,Andheri East,Mumbai,Multicuisine.,1000,40
+Peshawri,4.4,ITC Maratha,Mumbai,"Indian, North West Frontier.",4000,25
+HITCHKI,4.5,Powai,Mumbai,Modern Indian.,1200,40
+Tattva Bar & Cafe Mumbai,4.5,Hotel Peninsula Redpine,Mumbai,"Cocktail Menu, Multicuisine.",1800,40
+Berlin Brew,4.9,Marol,Mumbai,Multicuisine.,1000,40
+Crimson,5.0,Marriott Executive Apartments,Mumbai,Multicuisine.,2000,45
+Aroma Street,4.8,Hotel Le Grande,Mumbai,Multicuisine.,600,45
+Lord Of The Drinks,4.3,Powai,Mumbai,"Cocktail Menu, Multicuisine.",1500,35
+Global Coffee House & Eatery,4.0,Bloom Hotel - Saki Vihar,Mumbai,Multicuisine.,2500,65
+OKO,4.0,The Lalit,Mumbai,Pan Asian.,4000,50
+The Sassy Spoon,4.5,Powai,Mumbai,"American, Italian, Mediterranean, Modern Indian, Asian, Continental, Beverages, Desserts, European, Healthy Food.",1800,45
+The Stables ,4.2,Hotel Peninsula Redpine,Mumbai,"Multicuisine, Cocktail Menu.",1500,40
+The Tipsy Tiger Garden Bar.,4.8,Andheri East,Mumbai,Asian.,1100,45
+The Hedonist ,5.0,Fairmont,Mumbai,"Cocktail Menu, Finger Food.",3000,50
+Something's Fishy,4.6,Tunga International,Mumbai,Seafood.,1700,35
+Black Bull Cafe & Bar,4.8,Powai,Mumbai,"Chinese, Indian.",1300,50
+House Of Asia,3.7,Hotel Mirador,Mumbai,Pan Asian.,2500,50
+Pickle & Pint,4.5,The Paradise By Tunga,Mumbai,"Cocktail Menu, Multicuisine.",1400,40
+Toast - Bistro & Bar,4.4,Marol,Mumbai,"Finger Food, Cocktail Menu.",2000,45
+Bayroute,4.6,Powai,Mumbai,"Mediterranean, Cocktail Menu.",3000,25
+Fame Garden Prive,4.3,Powai,Mumbai,European.,2500,45
+Tipsy Monkee,4.0,Andheri East,Mumbai,Multicuisine.,1200,50
+Knotty Yard,4.0,Powai,Mumbai,"Italian, Cocktail Menu.",1500,40
+Global Fusion,4.5,Marol,Mumbai,Pan Asian.,3000,35
+Club Vegas,5.0,Andheri East,Mumbai,Indian.,1200,60
+Ark 2.0,4.8,Courtyard Mumbai International Airport,Mumbai,"Finger Food, Cocktail Menu.",3500,65
+Just Kerala,4.6,Chakala,Mumbai,Kerala.,850,35
+Madeleine De Proust,5.0,Fairmont,Mumbai,Multicuisine.,2000,50
+China Gate,4.8,Sakinaka,Mumbai,Chinese.,1500,50
+Six Degrees,5.0,The Leela,Mumbai,"Finger Food, Cocktail Menu.",5000,40
+ChimiChurri,4.5,Marol,Mumbai,Cocktail Menu.,1700,25
+Fisherman's Cove - Taste On Palate,4.3,Chandivali,Mumbai,"Seafood, Multicuisine.",800,40
+Romano's,4.6,JW Marriott Mumbai Sahar,Mumbai,Italian.,4000,50
+Cinnamon,4.5,Hotel Suba International,Mumbai,Multicuisine.,1500,55
+Foo Powai,4.5,Powai,Mumbai,"Chinese, Asian.",2000,25
+Machhli (Flavors of the Sea),4.0,Andheri East,Mumbai,Seafood.,600,40
+Bikkgane Biryani,4.0,Andheri East,Mumbai,Mughlai.,700,40
+The Barn Grill,5.0,Andheri East,Mumbai,American.,1000,35
+The Earth Plate - Global Cuisine ,4.3,Sahara Star,Mumbai,Multicuisine.,4500,55
+AB's - Absolute Barbecues,4.6,Powai,Mumbai,"Barbeque, Multicuisine.",1850,25
+Oryn,5.0,Fairmont,Mumbai,Chinese.,5000,50
+Toss & Sipp,5.0,Powai,Mumbai,"Cocktail Menu, Multicuisine.",1000,50
+Bekal House,4.0,Marol,Mumbai,"South Indian, Mangalorean.",1200,40
+TAP ,4.0,Sakinaka,Mumbai,Multicuisine.,1400,40
+Avartana,5.0,ITC Maratha,Mumbai,Indian.,5000,35
+Pop Tate's,4.6,Marol,Mumbai,Multicuisine.,2000,35
+Whats Your Plan ?,4.7,Sakinaka,Mumbai,"Multicuisine, Asian.",1600,50
+iaa by Tunga,4.8,Tunga International,Mumbai,Indian.,1200,35
+Peshwa Pavilion,4.4,ITC Maratha,Mumbai,Multicuisine.,4000,35
+Indriya Mishran,5.0,Andheri East,Mumbai,Multicuisine.,1600,35
+The Merchants,5.0,Fairmont,Mumbai,Multicuisine.,6000,50
+The Sassy Spoon,4.5,Koregaon Park,Pune,"Continental, Italian, Mediterranean, Modern Indian, Asian, Desserts, European, Healthy Food, Beverages, American.",1800,25
+Hotel Madhav Pure Veg,5.0,Sangamvadi,Pune,"North Indian, Chinese.",1000,25
+Mazdana,4.5,Camp Area,Pune,Multicuisine.,1000,35
+Acai ,4.2,Dhole Patil Road,Pune,Multicuisine.,1500,40
+Evviva,3.9,Crowne Plaza Pune City Centre,Pune,"Finger Food, Cocktail Menu.",2500,75
+Kiki,5.0,The Mills,Pune,Multicuisine.,1500,45
+Millers - The Luxury Club,4.8,Bund Garden Road,Pune,Multicuisine.,1800,45
+Mosaic,4.2,Crowne Plaza Pune City Centre,Pune,"Multicuisine, All Day Dining.",1500,45
+Kukoo,5.0,Sangamvadi,Pune,Multicuisine.,1800,45
+Feast,4.6,Sheraton Grand Pune Bund Garden Hotel,Pune,Multicuisine.,3000,50
+Epitome ,2.1,The Mills,Pune,Multicuisine.,1800,35
+Ba Da Bom,4.5,Sangamvadi,Pune,Korean.,1500,40
+Mahesh Lunch Home,4.3,Camp Area,Pune,Seafood.,1400,35
+Zanzibar,4.8,The Central Park Hotel,Pune,"Cocktail Menu, Multicuisine.",1100,25
+Time After Time,3.5,The Central Park Hotel,Pune,"European, Multicuisine.",1400,25
+Mirage,4.0,Sangamvadi,Pune,Pan Asian.,2000,25
+Shahji's Paratha House,4.0,Dhole Patil Road,Pune,North Indian.,800,25
+Publiq,4.2,Koregaon Park,Pune,Multicuisine.,1400,55
+Tim Luck Luck,4.2,East Street,Pune,"Chinese, North Indian, Cocktail Menu.",1000,40
+Coriander Kitchen,4.5,Conrad Pune,Pune,"North Indian, Multicuisine, Asian, Desserts, Mediterranean, Salad.",3400,45
+German Bakery,4.7,Koregaon Park,Pune,Cafe.,600,35
+Al Di La,4.4,Conrad Pune,Pune,Italian.,5200,40
+Malaka Spice,4.5,Koregaon Park,Pune,"Pan Asian, oriental.",1600,35
+Mood Drums,1.0,Hinjawadi,Pune,Multicuisine.,1000,75
+Yolo Gastro Lounge,3.8,Spot 18 Mall,Pune,Multicuisine.,1800,80
+SMOOR,4.5,Koregaon Park,Pune,European.,600,35
+QORA - Cocktail Bar & Kitchen,4.1,Koregaon Park,Pune,Asian.,1500,50
+OleOle | The Luxury Bar,5.0,Baner,Pune,"Cocktail Menu, Multicuisine.",1500,75
+Prem's,4.9,Koregaon Park,Pune,Multicuisine.,1600,40
+Sante Spa Cuisine,4.6,1st Lane,Pune,"Healthy Food, Vegan.",1000,35
+Grandmama's Cafe,4.7,Koregaon Park,Pune,"Cafe, Multicuisine.",1600,35
+Jubilee ,4.0,Koregaon Park,Pune,"Cafe, Desserts.",1000,45
+Thyme & Whisk,4.3,Koregaon Park,Pune,Multicuisine.,1000,25
+Koji,4.6,Conrad Pune,Pune,Pan Asian.,4000,40
+one8 Commune,4.5,Koregaon Park,Pune,Multicuisine.,1500,25
+Pimlico,3.4,Koregaon Park,Pune,Multicuisine.,1500,25
+Asia Kitchen By Mainland China,4.6,Dhole Patil Road,Pune,Chinese.,1200,40
+Kabana,4.6,Conrad Pune,Pune,"European, Cafe.",3000,45
+Little Italy ,4.5,Bund Garden Road,Pune,"Italian, Mexican.",1200,35
+18 Degrees Rooftop Resto Lounge,3.2,Spot 18 Mall,Pune,Multicuisine.,2000,75
+La Magia,4.3,SUNDERBAN RESORT & SPA,Pune,Italian.,2000,35
+Zeera,4.6,Conrad Pune,Pune,Indian.,4000,40
+Ebony,3.7,St Laurn Business Hotel,Pune,Multicuisine.,1400,50
+Chafa Cafe,4.4,Koregaon Park,Pune,Healthy Food.,600,35
+Aahar Udipi's,4.7,Sangamvadi,Pune,South Indian.,1000,35
+Masala Times,4.6,Camp Area,Pune,Multicuisine.,1000,25
+Swig,3.0,Koregaon Park,Pune,Multicuisine.,2000,35
+Garuda Restro Sky Bar,2.8,Hinjawadi,Pune,"Multicuisine, Cocktail Menu.",1800,25
+Boho Boho,5.0,Koregaon Park,Pune,Multicuisine.,900,40
+Intactu,3.7,Hinjawadi,Pune,Multicuisine.,1300,75
+The Daark Horse,2.7,Koregaon Park,Pune,Multicuisine.,1200,50
+Savya Rasa,4.8,Koregaon Park,Pune,South Indian.,1000,25
+Bean Social,4.0,Shivaji Nagar,Pune,Cafe.,300,40
+Barzilla Club,1.0,Hinjawadi,Pune,Multicuisine.,1800,80
+Wow! Momo,4.0,Camp Area,Pune,Momos.,400,40
+Shahji's Parantha House ,4.2,Deccan Gymkhana,Pune,North Indian.,800,25
+Pune Sugar Box,5.0,Conrad Pune,Pune,"Bakery, Desserts.",1200,40
+BOVI Lounge & Bar,5.0,Pashan,Pune,Multicuisine.,1600,65
+Toscano,4.5,Koregaon Park,Pune,Italian.,1500,25
+Puran Da Dhaba ,3.9,The Pride Hotel,Pune,North Indian.,1500,50
+The Rooftop Project,3.9,MG Road,Pune,Multicuisine.,1400,35
+Tiger Naan,5.0,Koregaon Park,Pune,"Japanese, Modern Indian.",1500,35
+Cafe Blu,4.3,Radisson Blu Pune Hinjewadi,Pune,Multicuisine.,1500,75
+11 East Street Cafe,4.2,East Street,Pune,Multicuisine.,1800,35
+Santorini,4.4,Hilton Garden Inn Pune Hinjawadi,Pune,"Mediterranean, Continental.",2400,75
+Loft On The Top,5.0,Kondhwa,Pune,Multicuisine.,1800,75
+Chaurahe Ke Paar,3.0,Koregaon Park,Pune,Multicuisine.,1500,55
+Dario's,4.0,Koregaon Park,Pune,Italian.,1500,25
+Kleeo,4.0,Baner,Pune,Multicuisine.,1400,65
+Cafe 15A,4.2,St Laurn Business Hotel,Pune,"All Day Dining, Multicuisine.",1500,50
+GILT Club,2.6,Kharadi,Pune,Multicuisine.,1200,75
+The Camden Lane,4.3,Koregaon Park,Pune,Multicuisine.,1200,25
+Masu,4.3,Conrad Pune,Pune,"Cocktail Menu, Finger Food.",3000,45
+Texas Tower,4.4,Kharadi,Pune,Multicuisine.,1500,50
+Casa Blanca ,3.7,The Pride Hotel,Pune,Multicuisine.,1150,50
+X-Tasy,3.2,The Pride Hotel,Pune,Multicuisine.,2200,50
+Ruhmani,3.9,Hilton Garden Inn Pune Hinjawadi,Pune,"Indian, Mughlai.",3000,75
+The Dragon Fly By Radisson Hinjewadi,4.0,Radisson Blu Pune Hinjewadi,Pune,Pan Asian.,2500,75
+Casablanca The Lounge,3.0,Koregaon Park,Pune,Multicuisine.,1800,50
+Earth Houz,4.5,Kondhwa,Pune,"Indian, North Indian.",1000,75
+Coco Café By Cococart,4.0,Viman Nagar,Pune,Cafe.,800,60
+Highland ,4.0,Kalyani Nagar,Pune,Multicuisine.,1400,60
+The 7a Restaurant and Bar,5.0,Kharadi,Pune,"Cocktail Menu, Multicuisine.",1000,55
+Rio Kitchen & Bar,1.6,Hinjawadi,Pune,Multicuisine.,1500,75
+Cafe Ceva Multi Cisine Restaurant.,4.0,Baner,Pune,Multicuisine.,1000,65
+Annies Bar & Kitchen,4.0,Koregaon Park,Pune,"Cocktail Menu, Finger Food.",1500,40
+Gurdjieff's Restaurant & Bar,4.8,Koregaon Park,Pune,"Cocktail Menu, Multicuisine.",1000,35
+Palmoco,4.0,Koregaon Park,Pune,"Cocktail Menu, Multicuisine.",1300,40
+Tutto Bene- Health Café by Little Italy,5.0,Bund Garden Road,Pune,"Continental, Italian.",1200,35
+Talli Bar & Kitchen,4.0,Koregaon Park,Pune,Multicuisine.,1600,55
+Braun Autobahn,3.7,Viman Nagar,Pune,Multicuisine.,1200,55
+Trivaz Rooftop Restro & Club,4.0,Xion Mall,Pune,Multicuisine.,1000,80
+The Divine Cafe,4.5,Koregaon Park,Pune,Multicuisine.,800,35
+Addah,4.2,The O Hotel Pune,Pune,North Indian.,2500,35
+Harajuku ,4.2,The O Hotel Pune,Pune,"Chinese, Japanese.",4500,35
+Tuckd Away,4.0,Koregaon Park,Pune,Cafe.,1000,35
+Cafe 9's ,4.0,Karve Nagar,Pune,Multicuisine.,600,35
+Majlis Darbar,4.0,Camp Area,Pune,Multicuisine.,1200,35
+Kwality Family Resto Bar ,4.0,Shivaji Nagar,Pune,Multicuisine.,1500,35
+Delhi Grills,4.0,Koregaon Park,Pune,"Mughlai, North Indian.",600,35
+L7 - Luxury Club & Kitchen,4.0,Koregaon Park,Pune,Multicuisine.,1400,55
+Teera,3.9,Wakad,Pune,Multicuisine.,1500,50
+Valour Kitchen & Bar,1.0,Kharadi,Pune,Multicuisine.,1200,60
+The Cult - Terra,4.1,Magarpatta,Pune,Multicuisine.,1700,50
+Blue Pepper,3.0,The O Hotel Pune,Pune,Multicuisine.,2500,35
+ZENZI Restaurant,1.0,Dhole Patil Road,Pune,Indian.,1000,45
+Cafe Rova,4.4,Kharadi,Pune,Multicuisine.,600,55
+Sreca Rooftop Lounge,2.7,Pimple Nilakh,Pune,Multicuisine.,1300,65
+The Bridge,4.6,Tarawade Clarks Inn,Pune,.,1500,25
+Punjab Exotica,4.6,Amanora Mall,Pune,Multicuisine.,1300,60
+Skye - Rooftop By Eternia,4.2,Senapati Bapat Road,Pune,"Multicuisine, Cocktail Menu.",2000,40
+Atmosphere 6,4.4,Viman Nagar,Pune,Multicuisine.,2000,40
+Bloom Café,4.0,Bloom Hotel - Koregaon Park,Pune,.,1200,25
+Big Table - The Veg Bar,4.0,Coronet The Boutique Hotel,Pune,Multicuisine.,1200,25
+Cafe Zen Courtyard,4.0,Koregaon Park,Pune,Multicuisine.,1000,25
+MOH Bistro & Barrels,5.0,Mundhwa,Pune,Multicuisine.,1800,70
+TGI Friday's,4.6,The Pavillion,Pune,Multicuisine.,2400,50
+5ive By Radisson Hinjewadi,4.7,Radisson Blu Pune Hinjewadi,Pune,Multicuisine.,2000,55
+The Bridge & SKYE,4.0,Radisson Blu Hotel Pune Kharadi,Pune,Mexican.,1200,50
+Punjab Grill,3.7,Phoenix Mall of the Millennium,Pune,North Indian.,1200,55
+The Waterfall Lounge,4.0,Hyatt Pune,Pune,French.,1000,45
+The Great Kabab Factory,4.0,Radisson Blu Hotel Pune Kharadi,Pune,North Indian.,4000,75
+FML - Food Music Love,3.1,Seasons Mall,Pune,Multicuisine.,1900,70
+Agent Jack's,3.2,Amanora Mall,Pune,Multicuisine.,1800,60
+Funny Cat,4.4,Ramee Grand,Pune,Multicuisine.,1500,55
+Shizusan,4.3,Viman Nagar,Pune,Pan Asian.,1600,40
+HAPAA - Asian Stir,4.4,Kalyani Nagar,Pune,Asian.,1200,45
+Le Parc ,3.9,Wakad,Pune,Multicuisine.,1200,45
+La Belle Resto Bar,4.0,Hinjawadi,Pune,Multicuisine.,1000,60
+Teritree,4.4,Hadapsar,Pune,Multicuisine.,1500,40
+Da Nonna's,5.0,Deccan Gymkhana,Pune,Italian.,1200,40
+The Barkhana,4.4,Wakad,Pune,"Pan Asian, Indian.",1300,45
+Saffron Restaurant ,5.0,Kalyani Nagar,Pune,North Indian.,1200,35
+Thikana,4.1,FC Road,Pune,"North Indian, Cocktail Menu, oriental.",1300,50
+The Market,4.5,The Westin Pune Koregaon Park,Pune,Multicuisine.,2800,50
+Utse Kitchen,4.0,Shivajinagar,Bengaluru,Asian.,1500,25
+Chin Lung Resto Bar,4.5,Residency Road,Bengaluru,Multicuisine.,2000,25
+Nasi and Mee,4.6,Richmond Town,Bengaluru,Asian.,2000,25
+Öz By Kebapci,4.6,UB City,Bengaluru,Turkish.,2000,25
+one8 Commune,3.8,MG Road,Bengaluru,Multicuisine.,2800,25
+KoMaama Korean Restaurant,4.0,Brigade Road,Bengaluru,Korean.,2000,25
+Juliet,3.8,1MG Road Mall,Bengaluru,"European, Asian.",3000,25
+Maverick & Farmer Coffee,4.6,Ulsoor,Bengaluru,Cafe.,2000,25
+Daddy,4.1,Indiranagar,Bengaluru,"Pan Asian, Cocktail Menu.",2000,25
+BLR Brewing Co,4.4,Whitefield,Bengaluru,Multicuisine.,2000,25
+Helen's Place,4.2,Marathahalli,Bengaluru,Multicuisine.,2500,25
+Chin Lung Brewery - Indiranagar,4.7,Indiranagar,Bengaluru,Multicuisine.,2000,25
+"Atlantis - Brewpub, Cocktails & Kitchen",4.1,HSR,Bengaluru,Multicuisine.,2000,25
+Yuki Cocktail Bar & Kitchen,4.7,Indiranagar,Bengaluru,"Cocktail Menu, Pan Asian, Asian.",2000,25
+46 Ounces Brewgarden,4.7,Electronic City,Bengaluru,"Multicuisine, Cocktail Menu.",2000,45
+The Reservoire Cocktail Bar & Kitchen,4.6,Indiranagar,Bengaluru,Multicuisine.,2000,25
+Khmer Kitchen,4.7,JP Nagar,Bengaluru,Asian.,2000,25
+Oia,4.2,Hennur,Bengaluru,Multicuisine.,2000,25
+MisoSexy,4.3,Indiranagar,Bengaluru,"Pan Asian, Asian.",2000,25
+The Founders Brewery,4.6,New BEL Road,Bengaluru,"Chinese, North Indian.",2000,25
+Nusa - Tropical Brewvilla,4.1,Gunjur Village,Bengaluru,Multicuisine.,2000,25
+1522 - The Pub,4.2,Malleshwaram,Bengaluru,"North Indian, Indian Coastal Cuisine, Chicken, Barbeque, European, Finger Food.",2500,25
+Maize & Malt,4.6,Krishnarajapuram Hobli,Bengaluru,Multicuisine.,2000,25
+Koreyaki ,3.5,Indiranagar,Bengaluru,Korean.,2000,25
+ASF - Ancient Stone Flames BBQ & Grill,4.8,Kalyan Nagar,Bengaluru,North Indian.,2000,35
+1 BHK - Bar House Kitchen,4.4,Koramangala,Bengaluru,Multicuisine.,2000,25
+Yuki - Pan Asian Kitchen and Bar,4.5,JP Nagar,Bengaluru,Pan Asian.,2000,25
+DISTRICT 6,4.4,Rajajinagar,Bengaluru,"Cocktail Menu, Multicuisine.",2000,25
+Byg Brewski - Sarjapur,4.5,Sarjapur Road,Bengaluru,Multicuisine.,2000,25
+The Fisherman's Wharf,4.5,Sarjapur Road,Bengaluru,"Seafood, Multicuisine, Indian Coastal Cuisine.",2000,25
+TAG,4.4,Indiranagar,Bengaluru,Andhra.,2000,25
+Jollygunj,4.3,JP Nagar,Bengaluru,Indian.,2500,25
+The Scene - Craft Kitchen & Bar,4.0,JP Nagar,Bengaluru,Multicuisine.,2000,25
+Yuki - Brewhouse and Kitchen,4.6,Koramangala,Bengaluru,"Cocktail Menu, Pan Asian.",2000,25
+Chairman's Restobar,4.5,Chikkabanavara,Bengaluru,Multicuisine.,2000,25
+William John's Pizza,4.9,Horamavu,Bengaluru,"Italian, American.",2000,25
+Garden by su,4.4,Jayanagar,Bengaluru,Multicuisine.,2000,25
+Masala Mandi,4.2,Sarjapur Road,Bengaluru,Barbeque.,2000,25
+Toca,3.9,Koramangala,Bengaluru,Multicuisine.,2000,25
+Brau Galie Microbrewery,4.8,Koramangala 5th Block,Bengaluru,Multicuisine.,2000,25
+Maggi Baba,5.0,Shivajinagar,Bengaluru,Beverages.,2000,25
+Romeo Cafe,4.0,Shivajinagar,Bengaluru,Multicuisine.,2000,25
+Dindigul Thalappakatti,5.0,MG Road,Bengaluru,Multicuisine.,950,25
+Hatti Kaapi,5.0,Infantry Road,Bengaluru,Multicuisine.,400,35
+Tiger Trail,4.1,Regenta Place Cunningham,Bengaluru,Indian.,2000,50
+Burnout Cafe,3.9,Infantry Road,Bengaluru,"Continental, Multicuisine, Chinese.",2000,45
+Trippy Goat Cafe,4.3,Vasanth Nagar,Bengaluru,"Coffee and Tea, European.",2000,35
+Bazaar,4.0,Zone By The Park Infantry Bengaluru,Bengaluru,Multicuisine.,2500,35
+Flo,3.5,Church Street,Bengaluru,"Multicuisine, Cocktail Menu.",2000,70
+Ta'aam,5.0,Cunningham Road,Bengaluru,"Arabian, North Indian.",600,25
+Monarch Cafe,4.0,Infantry Road,Bengaluru,Multicuisine.,2000,25
+No Limmits Lounge & Club,3.5,Brigade Road,Bengaluru,Multicuisine.,2000,65
+JW Kitchen,4.4,JW Marriott,Bengaluru,Multicuisine.,2500,55
+KA 01 - Rooftop Bar & Eats,4.4,Ibis Hotel,Bengaluru,"Indian, Cocktail Menu.",2000,75
+The Kabab Studio,3.9,Goldfinch Hotel,Bengaluru,North Indian.,2000,75
+SkyDeck By Sherlock's,4.5,MG Road,Bengaluru,Multicuisine.,2000,40
+ShakesBierre,4.4,MG Road,Bengaluru,"Cocktail Menu, Multicuisine.",2000,35
+Tiamo,4.4,Conrad Bengaluru,Bengaluru,Multicuisine.,2250,45
+Kenzai - Asian Kitchen And Lounge,4.6,Brigade Road,Bengaluru,Asian.,2000,50
+Café Azzure,4.2,MG Road,Bengaluru,European.,2000,45
+Sana-Di-Ge ,4.4,Goldfinch Hotel,Bengaluru,"Biryani, Seafood, Regional Indian.",2000,45
+Punjab Grill,4.2,Ashok Nagar,Bengaluru,North Indian.,2000,45
+Kudla,5.0,Sampangi Rama Nagar,Bengaluru,Multicuisine.,2500,40
+Be Luru Craft Kitchen & Bar,4.0,Sankey Road,Bengaluru,"Indian, Asian.",2000,55
+Jalebbi,4.5,Cunningham Road,Bengaluru,Indian.,2000,55
+Badmaash UB City,4.3,UB City,Bengaluru,Indian.,2000,50
+Alchemy,4.5,The Chancery Pavilion,Bengaluru,"Indian, Fusion.",2500,45
+Zest,4.9,Southern Star,Bengaluru,Multicuisine.,2000,25
+Beijing Bites,4.0,Frazer Town,Bengaluru,Pan Asian.,450,40
+Spice It,3.5,Ibis Hotel,Bengaluru,Multicuisine.,2000,55
+Lumara Bar & Kitchen,4.3,Old Madras Road,Bengaluru,Multicuisine.,2500,35
+Levista Gourmet Studio,5.0,Church Street,Bengaluru,American.,2000,45
+Hard Rock Cafe,4.5,St. Marks Road,Bengaluru,"Burgers, Multicuisine.",2500,45
+Cafe Noir,4.3,Cunningham Road,Bengaluru,French.,2000,45
+Matsuri,4.6,The Chancery Hotel,Bengaluru,"Japanese, Sushi.",2000,40
+Sozo Skyline Dining,4.4,Ashok Nagar,Bengaluru,"Pan Asian, Cocktail Menu.",2000,50
+Atlas World Cafe,4.4,Vividus Hotel,Bengaluru,Multicuisine.,2000,50
+LIT Gastropub,3.7,Church Street,Bengaluru,Multicuisine.,2000,45
+Rice Bowl,3.7,Ulsoor,Bengaluru,Pan Asian.,2500,55
+Kling Brewery,4.5,Church Street,Bengaluru,Multicuisine.,2000,35
+Maffei Kitchen,5.0,Cunningham Road,Bengaluru,Lebanese.,2000,35
+Sea Rock Family Restaurant & Bar,4.7,Seshadripuram,Bengaluru,Multicuisine.,2000,35
+Glass Kitchen & Bar,4.4,Holiday inn Bengaluru Racecourse,Bengaluru,"Indian, Cocktail Menu.",2500,75
+Downtown Diner,4.6,Brigade Road,Bengaluru,"European, Mediterranean, Indian.",2000,35
+SodaBottleOpenerWala,4.4,Lavelle Road,Bengaluru,Parsi.,2000,40
+Scottish Pub,4.9,St. Marks Road,Bengaluru,Multicuisine.,2000,45
+Kohinoor,4.0,St. Mark's Hotel,Bengaluru,Indian.,2000,35
+Tandoor | A Heritage Indian Restaurant & Bar,4.7,MG Road,Bengaluru,North Indian.,2000,35
+Wasabi,4.0,Brigade Road,Bengaluru,Multicuisine.,2000,50
+Alba,4.1,JW Marriott,Bengaluru,Italian.,3500,25
+Hatti Kaapi - Signature,5.0,Lavelle Road,Bengaluru,Multicuisine.,600,35
+Mirage,4.2,Church Street,Bengaluru,"Multicuisine, Cocktail Menu.",2800,50
+Mikusu,4.5,Conrad Bengaluru,Bengaluru,"Pan Asian, Asian.",3000,40
+By Chance,4.4,Brigade Road,Bengaluru,Multicuisine.,1500,35
+Mainland China,4.4,Church Street,Bengaluru,Chinese.,2000,40
+Tottos Pizza,3.5,5th Avenue,Bengaluru,Multicuisine.,2000,40
+Gufha Restaurant,4.6,Guttahalli,Bengaluru,Multicuisine.,2000,35
+Kake Di Hatti,5.0,Brigade Road,Bengaluru,North Indian.,2000,35
+The Biere Club,4.4,Lavelle Road,Bengaluru,"Cocktail Menu, Multicuisine.",2000,35
+Queens Restaurant,5.0,Church Street,Bengaluru,North Indian.,2000,40
+Maayaa,4.4,The Courtyard by Sublime,Bengaluru,South Indian.,2000,40
+Nothing Before Coffee,4.0,Richmond Town,Bengaluru,Cafe.,2000,45
+Plan B,3.7,Brigade Road,Bengaluru,American.,2000,40
+Spice Terrace,4.5,JW Marriott,Bengaluru,North Indian.,2800,40
+Street Storyss,5.0,Brigade Road,Bengaluru,Multicuisine.,1500,35
+Smoke House Deli,4.4,Lavelle Road,Bengaluru,European.,2000,45
+Restaurant Chef Pillai,4.2,Brigade Road,Bengaluru,South Indian.,2000,35
+Zodiac,4.2,Fortune Select JP Cosmos,Bengaluru,Multicuisine.,2000,50
+The California Coffee,4.0,Ashok Nagar,Bengaluru,American.,2000,35
+Sherlock's Pub,4.1,Frazer Town,Bengaluru,Multicuisine.,2000,40
+The Royal Afghan,4.8,ITC Windsor,Bengaluru,North West Frontier.,5500,35
+Raahi Neo Kitchen & Bar,4.0,Ashok Nagar,Bengaluru,Indian.,2500,50
+Zodiac - The Fortune Palace,4.0,Fortune Select JP Cosmos,Bengaluru,Multicuisine.,1800,50
+Dishkeyaun,4.1,Forum Rex Walk,Bengaluru,"Indian, Fusion, Asian.",2000,55
+The Coffee Shop,4.0,The Cunningham Hotel,Bengaluru,Indian.,1000,65
+Rooftop Dinning,4.0,The Cunningham Hotel,Bengaluru,Multicuisine.,1200,65
+Easy Tiger,4.2,Church Street,Bengaluru,"American, Cocktail Menu.",2000,45
+Coastal Machali Co.,4.6,Residency Road,Bengaluru,Multicuisine.,2000,50
+Sharief Bhai Biryani,4.4,Frazer Town,Bengaluru,Hyderabadi.,2000,40
+Pasta Street,4.6,Cunningham Road,Bengaluru,"Beverages, Pasta, Continental, Salad, Desserts, Healthy Food, Pizza, Italian.",2000,35
+Tonique Restro Bar,5.0,Battrahalli,Bengaluru,"Cocktail Menu, Multicuisine.",2000,40
+Sanchez & Sriracha,4.2,UB City,Bengaluru,Mexican.,2000,35
+Cahoots Classic Bar House,5.0,Brigade Road,Bengaluru,Multicuisine.,2500,40
+Botany Brew & Kitchen,4.0,Ashok Nagar,Bengaluru,Multicuisine.,2000,50
+"Salt - Pan Indian Restaurant, Bar & Grill",4.3,UB City,Bengaluru,"Indian, Cocktail Menu.",2000,25
+Toscano,4.4,Museum Road,Bengaluru,Italian.,2000,35
+Fuel Bar,4.4,The Pride Hotel,Bengaluru,"Finger Food, Cocktail Menu.",2000,40
+Cafe G Holiday inn Bengaluru Racecourse,4.0,Holiday inn Bengaluru Racecourse,Bengaluru,Multicuisine.,2500,55
+"Mad & Co, Indiranagar",1.0,Indiranagar,Bengaluru,Cafe.,2000,75
+Pinxx,4.2,Royal Orchid Central,Bengaluru,Multicuisine.,2400,50
+Hoppipola,3.9,Church Street,Bengaluru,Cocktail Menu.,2000,40
+Zed the Baker,3.6,Race Course Road,Bengaluru,French.,2000,35
+Dublin,4.8,ITC Windsor,Bengaluru,Irish.,3200,35
+Cafe Treat ,4.2,The Pride Hotel,Bengaluru,Multicuisine.,2000,40
+Ging,4.3,Royal Orchid Central,Bengaluru,"Cocktail Menu, oriental.",2500,50
+Exotica,4.3,Banjara Hills,Hyderabad,Multicuisine.,1500,35
+63 Degree Modern Regional Buffet,4.1,Gachibowli,Hyderabad,Regional Indian.,2400,25
+Forefathers,4.6,Road No. 45,Hyderabad,Multicuisine.,1500,25
+The Ofen,5.0,Banjara Hills,Hyderabad,"Beverages, Mexican, Italian.",2000,45
+Golconda Pavilion,4.4,ITC Kohenur,Hyderabad,"Chinese, Continental, Desserts, Finger Food, North Indian, Multicuisine.",2500,25
+one8 Commune,4.7,Hitech City,Hyderabad,Multicuisine.,2500,25
+Aster Cafe & Kitchen,4.0,Road No. 12,Hyderabad,Multicuisine.,1000,40
+Fuel Cafe,4.0,Banjara Hills,Hyderabad,Cafe.,800,40
+Pizza Zone,4.0,Habsiguda,Hyderabad,Italian.,1000,25
+7 Sisters,4.4,Banjara Hills,Hyderabad,North Eastern.,700,55
+Holy Basil,4.5,Radisson Blu Plaza Hotel,Hyderabad,Pan Asian.,1200,60
+Vasaara,4.0,Banjara Hills,Hyderabad,"European, South Indian.",1000,40
+Hibacci,4.4,Banjara Hills,Hyderabad,"Chinese, North Eastern, Pan Asian, Asian.",1250,40
+Ohri's Eatmor,3.8,Banjara Hills,Hyderabad,Multicuisine.,1200,40
+A'La Liberty,4.3,Banjara Hills,Hyderabad,"European, Indian.",1300,35
+Hummus House,5.0,Road No. 12,Hyderabad,Mediterranean.,1100,35
+Imli Sarai,3.0,Banjara Hills,Hyderabad,European.,1800,45
+Habitat Cafe,4.7,Banjara Hills,Hyderabad,Multicuisine.,1200,35
+Moyaaah!,4.0,Banjara Hills,Hyderabad,"European, Fast Food.",700,40
+Blu Café Lounge,4.3,Radisson Blu Plaza Hotel,Hyderabad,"Bakery, Cafe.",900,55
+Mazuri Cafe,4.0,Banjara Hills,Hyderabad,"European, Multicuisine.",1000,55
+Namchi - Fusion Of Taste Buds,4.2,Banjara Hills,Hyderabad,Indian.,1000,45
+The Octagon Cafe,4.0,Banjara Hills,Hyderabad,European.,1600,35
+Chill and Terrace ,3.9,Radisson Blu Plaza Hotel,Hyderabad,"Indian, European.",1500,60
+La Pino'z Pizza,5.0,Road No. 12,Hyderabad,"Italian, Pizza.",400,35
+Pakka Local,4.3,Road No. 7,Hyderabad,Multicuisine.,1200,25
+Ohri's Cake Nation,1.0,Banjara Hills,Hyderabad,Bakery.,800,35
+Harry's The Pub,4.8,Aditya Park,Hyderabad,"Finger Food, Cocktail Menu.",1400,60
+Lemerian Workin Cafe,4.0,Road No. 12,Hyderabad,Multicuisine.,800,35
+Chef Inam's Steak House,5.0,Banjara Hills,Hyderabad,"Barbeque, American.",1800,25
+ZYTHUM Brewing Co.,4.5,Jubilee Hills,Hyderabad,Multicuisine.,2500,50
+Verandah ,4.5,The Park,Hyderabad,Multicuisine.,2500,65
+Cayenne ,4.3,Mercure Hyderabad KCP,Hyderabad,Multicuisine.,2000,65
+Wow! China Bistro,1.0,Banjara Hills,Hyderabad,Chinese.,600,25
+Bourbon & Breeze,4.3,Banjara Hills,Hyderabad,Multicuisine.,1500,75
+TOS Club & Lounge,4.0,Banjara Hills,Hyderabad,Multicuisine.,1000,50
+Hydrate The Bar,4.5,Hampshire Plaza Hotel,Hyderabad,"Finger Food, Cocktail Menu.",1100,45
+Rasa by Ashoka,4.6,Best Western Ashoka,Hyderabad,Indian.,1500,50
+Aqua ,4.4,The Park,Hyderabad,"Finger Food, Cocktail Menu.",2500,55
+Kasuall,3.7,Somajiguda,Hyderabad,Multicuisine.,1200,75
+Masala Republic by Dadu's,4.5,Banjara Hills,Hyderabad,Multicuisine.,1100,55
+Bar 41 ,4.5,Radisson Blu Plaza Hotel,Hyderabad,"Finger Food, Cocktail Menu.",2000,60
+"Tre forni, Italian Restaurant & Bar",4.0,Park Hyatt,Hyderabad,Italian.,4000,50
+Aish,4.1,The Park,Hyderabad,"Indian, South Indian.",2400,55
+The Dining Room,4.1,Park Hyatt,Hyderabad,Multicuisine.,3500,55
+Kuchipudi,3.8,Katriya Hotels,Hyderabad,South Indian.,1000,75
+By The Bay,4.1,Necklace Road,Hyderabad,"Cocktail Menu, Multicuisine.",1200,35
+Promenade,4.1,Aditya Park,Hyderabad,Multicuisine.,1000,60
+Palace Heights,4.6,Road No. 12,Hyderabad,Multicuisine.,1500,45
+Zanzi Bar,5.0,The Golkonda Hotel,Hyderabad,"Finger Food, Cocktail Menu.",1900,50
+The Terrace,5.0,Mercure Hyderabad KCP,Hyderabad,Multicuisine.,1800,65
+Rika ,4.4,Park Hyatt,Hyderabad,"Asian, Japanese.",3000,50
+MOB - Belgium Beer House,4.0,Film Nagar,Hyderabad,Multicuisine.,1500,35
+KGF - Krishna Godavari Flavours,4.0,Banjara Hills,Hyderabad,Multicuisine.,800,35
+Tolly Junction Rest O Bar,4.0,Banjara Hills,Hyderabad,Multicuisine.,1000,50
+Cuiscent ,3.5,Lakdikapul,Hyderabad,Multicuisine.,600,50
+MoXa Kitchen,4.2,Jubilee Hills,Hyderabad,Multicuisine.,1300,60
+Cassia,3.8,Hampshire Plaza Hotel,Hyderabad,Multicuisine.,1200,45
+24/7 Gallery Café,3.5,Hyatt Place Hyderabad Banjara Hills,Hyderabad,Multicuisine.,1500,45
+Kismet ,2.6,The Park,Hyderabad,"Finger Food, Cocktail Menu.",3000,55
+Zouq ,3.9,Road No. 2,Hyderabad,Turkish.,600,35
+Jewel of Nizam,3.8,The Golkonda Hotel,Hyderabad,Indian.,2200,45
+Rayalaseema Ruchulu,4.5,Ameerpet,Hyderabad,"South Indian, Andhra.",800,35
+Little Italy,3.9,Jubilee Hills,Hyderabad,"Mexican, Italian.",1500,35
+10 Biryanis,5.0,Jubilee Hills,Hyderabad,"Mughlai, North Indian.",1200,50
+Rium Cafe,3.0,Banjara Hills,Hyderabad,"Chinese, Continental.",1200,75
+Mandi King Elite Arabian Restaurant,5.0,Tolichowki,Hyderabad,Arabian.,1000,35
+Kabul Darbar,3.9,Tolichowki,Hyderabad,"Arabian, Afghani.",1000,35
+Barbeque Spice,3.9,Abids,Hyderabad,Barbeque.,1500,55
+Hard Rock Cafe,4.1,GVK One Mall,Hyderabad,Multicuisine.,1800,55
+Flavours ,4.0,Ameerpet,Hyderabad,.,800,55
+Paradise Biryani - A Legend since 1953,4.3,Khairatabad,Hyderabad,Biryani.,800,35
+Melange ,4.0,The Golkonda Hotel,Hyderabad,Multicuisine.,2200,55
+Once Upon A Time ,4.3,Hotel GreenPark,Hyderabad,Indian.,2000,55
+Barbeque Nation,4.5,Road No. 1,Hyderabad,"Barbeque, Multicuisine.",2000,25
+Seventh Heaven,4.4,Panjagutta,Hyderabad,Multicuisine.,1500,35
+Arabian Nights Mandi Restaurant,3.5,Ameerpet,Hyderabad,Multicuisine.,600,35
+The Waterfront Bar & Grill,2.2,Necklace Road,Hyderabad,"Indian, Chinese.",1200,40
+Tabla,4.2,Banjara Hills,Hyderabad,Multicuisine.,1333,45
+FEU - Dessert Bar & Kitchen,5.0,Jubilee Hills,Hyderabad,Multicuisine.,1400,35
+Chili’s Grill & Bar,3.8,Banjara Hills,Hyderabad,Tex-Mex.,1500,40
+AB's - Absolute Barbecues,4.5,Road No. 1,Hyderabad,"Barbeque, Multicuisine.",1850,25
+Frosty Den,4.0,Amberpet,Hyderabad,"Desserts, Fast Food.",500,60
+Medley - Pure Vegetarian,4.7,Jubilee Hills,Hyderabad,Multicuisine.,1000,45
+Bikanervala,4.7,Bikanervala Boutique,Hyderabad,Multicuisine.,1200,35
+Raen - The Chef’s Studio,4.0,The Leela Hyderabad,Hyderabad,Bengali.,4000,25
+The Fifth Street,4.0,Jubilee Hills,Hyderabad,Multicuisine.,1000,40
+The Sicca Bar,1.0,The Park,Hyderabad,"Finger Food, Cocktail Menu.",1800,55
+Tulips,4.3,Hotel GreenPark,Hyderabad,Multicuisine.,1500,35
+Garage Moto Cafe,4.0,Jubilee Hills,Hyderabad,Multicuisine.,800,35
+Saffron Restaurant,3.6,Jubilee Hills,Hyderabad,North Indian.,1200,35
+The Palm Banjara,3.2,Jubilee Hills,Hyderabad,Multicuisine.,800,35
+Hooch- Club & Kitchen,4.0,Banjara Hills,Hyderabad,Multicuisine.,1800,80
+Kebabs & Kurries,4.8,ITC Kakatiya,Hyderabad,Indian.,3400,35
+Wow! Momo,1.0,Ameerpet,Hyderabad,Momos.,400,40
+Kadali Kitchen,4.8,Jubilee Hills,Hyderabad,Indian.,1000,25
+Okra,3.8,Hyderabad Marriott Hotel & Convention Centre,Hyderabad,Multicuisine.,2500,55
+Dakshin Haveli,4.0,Banjara Hills,Hyderabad,South Indian.,400,50
+Fly - Feel The High,5.0,Jubilee Hills,Hyderabad,"Cocktail Menu, Multicuisine.",1400,45
+Deccan Pavilion,3.9,ITC Kakatiya,Hyderabad,Multicuisine.,2600,35
+Dakshin,4.3,ITC Kakatiya,Hyderabad,South Indian.,3400,35
+Aroma Multi Cuisine Restaurant,3.9,Gachibowli,Hyderabad,Multicuisine.,1200,60
+Tiga,4.0,The Leela Hyderabad,Hyderabad,Pan Asian.,3500,25
+EKAA - A Harmony Of Flavours,4.0,Banjara Hills,Hyderabad,Multicuisine.,800,45
+The Gallery Cafe,5.0,Banjara Hills,Hyderabad,Continental.,900,40
+Sync Resto Bar,4.8,Best Western Ashoka,Hyderabad,Indian.,1300,40
+Jolly Bros and Co.,3.5,Banjara Hills,Hyderabad,"Finger Food, Cocktail Menu.",1500,25
+Krispy Kreme,4.0,Banjara Hills,Hyderabad,Desserts.,350,40
+Spice It ,3.2,Ibis Hotel,Hyderabad,Indian.,1400,75
+Permit To Grill,4.0,Novotel Hyderabad Convention Centre,Hyderabad,Continental.,1800,55
+Cups N Plates,4.6,Lakdikapul,Hyderabad,Fast Food.,900,35
+The Bedford BakeHouse & TeaRoom,4.5,Banjara Hills,Hyderabad,"Italian, European, Bakery.",1100,35
+Marco Polo Bar,4.3,ITC Kakatiya,Hyderabad,Finger Food.,2700,35
+Esthio,4.1,Somajiguda,Hyderabad,Italian.,1150,35
+Params Kitchen & Cafe,4.0,Ameerpet,Hyderabad,Multicuisine.,600,35
+Banjara9 Multi Cuisine Restaurant,4.0,Khairatabad,Hyderabad,Multicuisine.,1000,35
+Deccan Cafe Restaurant ,4.0,Park Continental,Hyderabad,Indian.,800,35
+Chandra Haveli,3.0,Jubilee Hills,Hyderabad,Multicuisine.,800,40
+Bharpur Multicusine Family Restaurant,4.0,Punjagutta,Hyderabad,Multicuisine.,1000,35
+Urban Nemo Cafe In Garden,4.8,Jubilee Hills,Hyderabad,Multicuisine.,800,25
+Moonlight Bar,2.7,Best Western Ashoka,Hyderabad,Finger Food.,1200,40
+Kritunga The Palegars Cuisine,3.5,Somajiguda,Hyderabad,Multicuisine.,1200,35
+Golden Pavilion,3.3,Banjara Hills,Hyderabad,Multicuisine.,1500,35
+Bel Posto The Cafe,4.5,Road No. 36,Hyderabad,Multicuisine.,800,55
+Candy cloud factory,4.0,Banjara Hills,Hyderabad,"Beverages, Desserts, Fast Food.",300,25
+Hyderabad Mandi Restaurant ,4.0,Yousufguda,Hyderabad,Multicuisine.,450,25
+ZING - Sky Bar + Lounge,4.1,Hyatt Place Hyderabad Banjara Hills,Hyderabad,Multicuisine.,1500,25
+Onesta,4.0,Road No. 1,Hyderabad,Italian.,600,25
+Insomnia,4.1,Road No. 36,Hyderabad,"Finger Food, Cocktail Menu.",1500,45
+Eagle Bar & Restaurant,5.0,Hotel Abode,Hyderabad,"Finger Food, Cocktail Menu, Continental.",1000,25
+Kanak,4.5,Trident Hyderabad,Hyderabad,Indian.,4500,50
+Connect,1.0,Jubilee Hills,Hyderabad,Multicuisine.,1200,40
+The Library Bar,4.0,The Leela Hyderabad,Hyderabad,"Finger Food, Cocktail Menu.",3500,25
+Solcito ,4.0,The Leela Hyderabad,Hyderabad,Multicuisine.,5000,25
+The Foodstories Cafe,4.0,Banjara Hills,Hyderabad,European.,1500,25
